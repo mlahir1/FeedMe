@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Masters\SEM3\HackUMBC\Fedme\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="676c59ace7fa20c029ddf80bfeccdad1bc675191">
+        <dex dex="F:\Masters\SEM3\HackUMBC\Fedme\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c5ae8b19ca09b5e3a8ed7180cad71606ae5aa760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Masters\SEM3\HackUMBC\Fedme\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Masters\SEM3\HackUMBC\Fedme\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_30fd642f5074e9d3e9c8c2211c8de8faa021ec06\classes.dex" />
+    </item>
+
+</items>
